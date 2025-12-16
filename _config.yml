@@ -1,0 +1,23 @@
+title: L200 TechWorkshop - Copilot and Agents at Work
+description: In this course, you will learn how to leverage AI-powered tools like Copilot and intelligent agents to enhance productivity and streamline workflows.
+theme: just-the-docs
+
+aux_links:
+  "L200 TechWorkshop Copilot and Agents at Work": "https://github.com/microsoft/TWL200-Copilot-and-agents-at-work/"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
